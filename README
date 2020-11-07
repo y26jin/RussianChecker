@@ -1,0 +1,5 @@
+To build:
+make
+
+To clean artifacts from project:
+make clean
